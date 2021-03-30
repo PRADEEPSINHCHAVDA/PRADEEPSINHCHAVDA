@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**PRADEEPSINHCHAVDA/PRADEEPSINHCHAVDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
 ![download (2)](https://user-images.githubusercontent.com/55187749/113020993-c3297100-91a0-11eb-9b6e-adf8b5ca8a80.jpeg)
 
 - 🔭 I’m currently working on ...

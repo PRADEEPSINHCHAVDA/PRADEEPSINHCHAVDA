@@ -6,7 +6,7 @@ Student at charusat🎓
 
 
 
-Twitter![image](https://user-images.githubusercontent.com/55187749/113184193-8463eb80-9272-11eb-9f15-64da84be3418.png)
+Twitter![image](https:https://github.com/PRADEEPSINHCHAVDA/PRADEEPSINHCHAVDA.png)
 : @Pradeepsinhcha8 Linkedin![image](https://user-images.githubusercontent.com/55187749/113184282-9e053300-9272-11eb-807d-d30ce4374fb0.png)
 : Pradeepsinh chavda GitHub![image](https://user-images.githubusercontent.com/55187749/113184323-a6f60480-9272-11eb-94bb-d313195bf0e8.png)
 : PRADEEPSINHCHAVDA  

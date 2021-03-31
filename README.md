@@ -2,10 +2,11 @@
 
    ![download (2)](https://user-images.githubusercontent.com/55187749/113020993-c3297100-91a0-11eb-9b6e-adf8b5ca8a80.jpeg)
 
-Student at charusat🎓
-learning🔰
+-Student at charusat🎓
 
-Twitter: @Pradeepsinhcha8 Linkedin: Pradeepsinh chavda GitHub: PRADEEPSINHCHAVDA  
+-learning🔰
+
+   Twitter: @Pradeepsinhcha8 Linkedin: Pradeepsinh chavda GitHub: PRADEEPSINHCHAVDA  
 
       A little more about me...🐣
      Widget build(BuildContext context){

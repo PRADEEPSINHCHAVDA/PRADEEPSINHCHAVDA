@@ -7,7 +7,7 @@ I'm an full-stack developer, passionate about building my vision of the digital 
 ## 🌐 Contact & Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeepsinh-chavda-008ba1161/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pradeepsinhchavda01@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://pradeepsinh-portfolio.vercel.app/)
 
 
 # 💻 Tech Stack:

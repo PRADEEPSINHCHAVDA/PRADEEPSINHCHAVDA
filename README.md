@@ -2,7 +2,7 @@
 
 **`Software developer`**
 
-I'm an full-stack developer, passionate about building my vision of the digital world from the ground up. From planning and designing to solving real-world problems with code, I approach each project with creativity and purpose. I’m constantly learning and exploring new technologies, blending my technical skills with storytelling to craft experiences that inspire and engage.
+I'm an Software Engineer, passionate about building my vision of the digital world from the ground up. From planning and designing to solving real-world problems with code, I approach each project with creativity and purpose. I’m constantly learning and exploring new technologies, blending my technical skills with storytelling to craft experiences that inspire and engage.
 
 ## 🌐 Contact & Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeepsinh-chavda-008ba1161/) 

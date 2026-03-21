@@ -25,7 +25,6 @@
 ```ts
 const pradeepsinh = {
   name: "Pradeepsinh Chavda",
-  location: "India 🇮🇳",
   openTo: [
     "SDE  — Software Development Engineer",
     "SWE  — Software Engineer",
@@ -148,15 +147,6 @@ const pradeepsinh = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=PRADEEPSINHCHAVDA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
 
 ## 🌐 Let's Connect
 
@@ -170,14 +160,4 @@ const pradeepsinh = {
 
 > *"The best way to predict the future is to build it."*
 
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
 
-</div>
-
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />

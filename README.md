@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Mobile+App+Craftsman+%F0%9F%93%B1;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Development+Engineer+%28SDE%29+%F0%9F%92%BB;Software+Engineer+%28SWE%29+%F0%9F%9A%80;AI+%26+ML+Engineer+%F0%9F%A4%96;Site+Reliability+Engineer+%28SRE%29+%E2%9A%99%EF%B8%8F;DevOps+Engineer+%F0%9F%94%A7;Cloud+Engineer+%E2%98%81%EF%B8%8F;Full+Stack+Developer+%F0%9F%8C%90;Always+Building%2C+Always+Shipping+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,17 +25,42 @@
 ```ts
 const pradeepsinh = {
   name: "Pradeepsinh Chavda",
-  role: "Software Engineer",
+  location: "India 🇮🇳",
+  openTo: [
+    "SDE  — Software Development Engineer",
+    "SWE  — Software Engineer",
+    "AI   — Artificial Intelligence Engineer",
+    "SRE  — Site Reliability Engineer",
+    "DevOps Engineer",
+    "Cloud Engineer / Architect",
+  ],
   passions: [
-    "Building scalable systems",
-    "Crafting beautiful UIs",
-    "Mobile-first experiences",
+    "Building scalable, resilient systems",
+    "Automating everything with CI/CD & IaC",
+    "Crafting AI-powered products",
+    "Cloud-native architectures",
     "Clean, purposeful code",
   ],
-  currentlyExploring: ["AI integrations", "Cloud-native architectures"],
-  funFact: "I turn coffee ☕ into commits 🔥",
+  currentlyExploring: ["LLM integrations", "Observability & SRE practices", "Multi-cloud strategies"],
+  funFact: "I turn coffee ☕ into production deployments 🚀",
 };
 ```
+
+---
+
+## 🎯 Roles I'm Targeting
+
+<div align="center">
+
+| 🤖 AI Engineer | 💻 SDE / SWE | ⚙️ SRE |
+|:-:|:-:|:-:|
+| LLMs • ML Pipelines • AI Products | Full Stack • System Design • APIs | Reliability • Observability • SLOs |
+
+| 🔧 DevOps Engineer | ☁️ Cloud Engineer |
+|:-:|:-:|
+| CI/CD • IaC • Automation • Docker/K8s | AWS • Azure • Cloud-native • Terraform |
+
+</div>
 
 <br clear="right"/>
 
@@ -121,6 +146,17 @@ const pradeepsinh = {
 
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=PRADEEPSINHCHAVDA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+---
 
 ## 🌐 Let's Connect
 
@@ -133,3 +169,15 @@ const pradeepsinh = {
 <br/>
 
 > *"The best way to predict the future is to build it."*
+
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />

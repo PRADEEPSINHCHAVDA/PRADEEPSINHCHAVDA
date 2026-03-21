@@ -47,23 +47,6 @@ const pradeepsinh = {
 
 ---
 
-## 🎯 Roles I'm Targeting
-
-<div align="center">
-
-| 🤖 AI Engineer | 💻 SDE / SWE | ⚙️ SRE |
-|:-:|:-:|:-:|
-| LLMs • ML Pipelines • AI Products | Full Stack • System Design • APIs | Reliability • Observability • SLOs |
-
-| 🔧 DevOps Engineer | ☁️ Cloud Engineer |
-|:-:|:-:|
-| CI/CD • IaC • Automation • Docker/K8s | AWS • Azure • Cloud-native • Terraform |
-
-</div>
-
-<br clear="right"/>
-
----
 
 <!-- Tech Stack -->
 ## ⚡ Tech Stack & Tools

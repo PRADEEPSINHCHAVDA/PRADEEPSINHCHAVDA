@@ -103,32 +103,6 @@ const pradeepsinh = {
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PRADEEPSINHCHAVDA&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
-
-<br/>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=PRADEEPSINHCHAVDA&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PRADEEPSINHCHAVDA&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRADEEPSINHCHAVDA&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical" />
-
-</div>
-
----
 
 
 ## 🌐 Let's Connect

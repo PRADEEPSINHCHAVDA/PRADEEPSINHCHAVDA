@@ -104,4 +104,17 @@ const pradeepsinh = {
 </div>
 
 
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeepsinh-chavda-008ba1161/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradeepsinhchavda01@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://pradeepsinh-portfolio.vercel.app/)
+
+<br/>
+
+> *"The best way to predict the future is to build it."*
+
+
 
